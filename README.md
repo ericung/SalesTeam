@@ -12,6 +12,8 @@ $Personality = Groundwork \cdot Reputation \cdot Ideas \cdot Trust$
 
 ### Reference
 
+Extroverts and Introverts in Sales. (n.d.). ZoomInfo. https://pipeline.zoominfo.com/sales/extroverts-and-introverts-in-sales
+
 Graham, P. (2006, January). How to do what you love. http://www.paulgraham.com/love.html
 
 Graham, P. (2005, November). How to fund a startup. http://www.paulgraham.com/startupfunding.html
